@@ -52,5 +52,6 @@ public class MainActivity extends AppCompatActivity implements CallBackIntr {
     @Override
     public void calldata() {
         int i=2;
+        String stst="test";
     }
 }
