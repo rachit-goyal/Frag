@@ -51,7 +51,8 @@ public class MainActivity extends AppCompatActivity implements CallBackIntr {
 
     @Override
     public void calldata() {
-        int i=2+111123;
+        int i=2+123;
         String stst="test";
+        String stdfst="tedfgst";
     }
 }
