@@ -1,4 +1,4 @@
 package com.gmaxmart.frag;
 
-public class Testadd {
+public class Testadd  {
 }
